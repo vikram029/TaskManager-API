@@ -1,0 +1,34 @@
+## Visual Studio / .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.rsuser
+*.log
+*.dbmdl
+*.jfm
+launchSettings.json.bak
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+publish/
+PublishScripts/
+*.pubxml
+*.publish.xml
+TestResults/
+*.nupkg
+.idea/
+.vscode/
+
+## Secrets and local settings
+appsettings.Development.json
+secrets.json
+.env
+
+## OS files
+.DS_Store
+Thumbs.db
